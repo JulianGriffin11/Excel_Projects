@@ -4,7 +4,7 @@ Welcome to my **NewExcel_Projects** repository! 🌟
 
 This space highlights my journey into **Excel-based data analysis**, showcasing my unique projects. Use the links below to explore each one!  
 
-<img src="/Users/juliangriffin/Desktop/excel_pic.jpeg" alt="Excel Projects Banner" width="600"/> 
+<img src="/Users/juliangriffin/Desktop/NewExcel_Projects_Local/NewExcel_Projects/:media/excel_pic.jpeg" alt="Excel Projects Banner" width="600"/> 
 
 ---
 
