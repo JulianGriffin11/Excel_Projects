@@ -11,7 +11,7 @@ This space highlights my journey into Excel-based **data analysis**, showcasing 
 
 ## 🗂️ Projects  
 
-### 1. [**💰 Money Matters 💰**](./Money Matters)  
+### 1. [**💰 Money Matters 💰**](./Money_Matters)  
 - **Summary**: My personal finance tracker designed to streamline budgeting. Features include an automated categorization of earnings and expenses via a dashboard and more.  
 - **Skills Learned**: 
   - Tob Down Dynamic Dashboard
