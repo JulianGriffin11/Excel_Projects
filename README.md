@@ -2,9 +2,10 @@
 
 Welcome to my **NewExcel_Projects** repository! 🌟  
 
-This space highlights my journey into **Excel-based data analysis**, showcasing my unique projects. Use the links below to explore each one!  
+This space highlights my journey into Excel-based **data analysis**, showcasing my unique projects. Use the **links below** to explore each one!  
 
-<img src="/Users/juliangriffin/Desktop/NewExcel_Projects_Local/NewExcel_Projects/:media/excel_pic.jpeg" alt="Excel Projects Banner" width="600"/> 
+<img src="./Media/excel_pic.jpeg" alt="Excel Projects Banner" width="600"/>
+
 
 ---
 
@@ -17,26 +18,29 @@ This space highlights my journey into **Excel-based data analysis**, showcasing 
   - Advanced Pivot Tables
   - Data Visualization, and more!   
 
+<br>
 
-  <img src="https://via.placeholder.com/500x300.png?text=GIF+Placeholder+for+Money+Matters" alt="Money Matters Demo" width="500" height="300">  
+<img src="https://via.placeholder.com/500x300.png?text=GIF+Placeholder+for+Payday+Perspectives" alt="Payday Perspectives Demo" width="700">
+
 
 ---
 
 ### 2. [**📊 Payday Perspectives 📊**](./Payday_Perspectives)  
-- **Summary**: Job market analyser that simplifies salary tracking within the data field. Includes dynamic visuals and fields for better interpretation.  
+- **Summary**: Job market analysis dashboard that simplifies salary tracking within the data field. Includes dynamic visuals and fields for better interpretation.  
 - **Skills Learned**: 
   - Advanced Excel functions (e.g., **VLOOKUP**, **INDEX-MATCH**)
   - Conditional formatting to indicate outliers
   - Detailed Pivot tables, and more!
+    
+<br>
 
- 
-  <img src="https://via.placeholder.com/500x300.png?text=GIF+Placeholder+for+Payday+Perspectives" alt="Payday Perspectives Demo" width="500" height="300">  
+<img src="https://via.placeholder.com/500x300.png?text=GIF+Placeholder+for+Payday+Perspectives" alt="Payday Perspectives Demo" width="700">
+
 
 ---
 
-✨ Dive into each project folder to see detailed breakdowns, processes, and insights into the skills behind the spreadsheets! 🚀  
+✨ Click the heading links to dive deeper into each project folder to see detailed breakdowns, processes, and insights into the skills behind the spreadsheets! 🚀  
 
-Click links on the headings to explore each one,  
-Julian Griffin :)
+**Julian Griffin :)**
 
 
