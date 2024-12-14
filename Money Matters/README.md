@@ -83,5 +83,5 @@ The **Money Matters** project has been a financial eye-opener, revealing where m
 
 ### 📂 Access the Project  
 
-Click [here](./Money%20Matters/Money%20Matters.xlsx) to access the Excel file. (Note: the workbook is protected so some field I've forbidden user editing)  
+Click [here](Money%20Matters/Money%20Matters.xlsx) to access the Excel file. (Note: the workbook is protected so some field I've forbidden user editing)  
  
