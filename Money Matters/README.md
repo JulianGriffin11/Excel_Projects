@@ -35,6 +35,10 @@ The dataset includes transaction details from my RBC VISA and Debit accounts, fe
 - **🛍️ Categories (e.g., Groceries, Entertainment)**  
 - **🛒 Merchant**
 - **💰 Earnings or Expenses**
+  
+<br>
+
+<img src="../Media/MM5.png" alt="Description of Image" width="65%" />
 
 ---
 
@@ -48,8 +52,11 @@ The dataset includes transaction details from my RBC VISA and Debit accounts, fe
 
 #### 💡 Insights  
 - During the summer, **expenses overtook earnings**, hinting at some budget-busting indulgences.  
-- October 2023 stood out as a financial win, with a notable surplus thanks to tighter control on less useful spending.  
+- October 2023 stood out as a financial win, with a notable surplus thanks to tighter control on less useful spending.
 
+<br> 
+
+<img src="../Media/MM4.png" alt="Description of Image" width="70%" />
 ---
 
 ### 2️⃣ **How does my weekday spending stack up against my weekend habits?**  
@@ -72,8 +79,10 @@ The dataset includes transaction details from my RBC VISA and Debit accounts, fe
 - Leveraged **Pivot Tables** to calculate totals for each category.  
 
 #### 💡 Insights  
-- Transportation and Entertainment predictably claimed the biggest slice of the pie, accounting for about **25% of total expenses for each**.  
+- Transportation and Entertainment consistently claimed the biggest slice of the pie, accounting for about **25% of total expenses for each**.  
 - Of the Transportation spending, Uber was **marginally higher** compared to the other merchants. 
+
+<img src="../Media/MM6.png" alt="Description of Image" width="40%" />
 
 ---
 
