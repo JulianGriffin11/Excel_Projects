@@ -62,7 +62,7 @@ The dataset includes transaction details from my RBC VISA and Debit accounts, fe
 - **Ext-Weekend** and **Worday** spending show minimal overall variation
 - Weekdays showed a steady trend of smaller, necessity-driven expenses like groceries and transport vs transportation on weekends 
 
-<img alt="Workday vs Weekend Spending" src="/Users/juliangriffin/Desktop/NewExcel_Projects_Local/NewExcel_Projects/Money Matters/Matters Media/Workday_Weekend.png"/>
+<img src="../Media/MM7.gif" alt="Description of GIF" width="75%" />
 ---
 
 ### 3️⃣ **What are the major categories of my expenses?**  
