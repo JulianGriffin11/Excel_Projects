@@ -1,6 +1,6 @@
 # 🧾 Money Matters: Spending Habits Analysis  
 
-<img src="../Media/MM1.gif" alt="Description of GIF" width="50%" />
+<img src="../Media/MM1.gif" alt="Description of GIF" width="100%" />
 ## Introduction  
 
 Ever feel like your wallet’s playing hide and seek? **Money Matters** is my personal quest to decode the mysteries of where my hard-earned cash disappears every month. In this personal project, I’ve dived deep into my RBC transactions, unveiling my spending and earning secrets. With Excel as my trusty sidekick, I built a **dynamic dashboard** to map out my financial habits. It’s like being my own accountant—without the boring spreadsheets (well, mostly).  
