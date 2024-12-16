@@ -40,7 +40,7 @@ The dataset consolidates information on data job postings, including:
 
 <br>
 
-<img src="../Media/PP4.png" alt="Salary Data Overview" width="65%" />
+<img src="../Media/PP4.png" alt="Salary Data Overview" width="55%" />
 
 ---
 
@@ -72,7 +72,7 @@ The dataset consolidates information on data job postings, including:
 - Engineering roles and senior roles share about the same average yearly salary.
 - **Data Analysts** roles remained popular, though with an average salary of $85,000/year.  
 
-<img src="../Media/PP2.gif" alt="Average Salaries by Role" width="65%" />  
+<img src="../Media/PP2.gif" alt="Average Salaries by Role" width="75%" />  
 
 ---
 
