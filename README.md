@@ -41,6 +41,6 @@ This space highlights my journey into Excel-based **data analysis**, showcasing 
 
 ✨ Click the heading links to dive deeper into each project! 🚀  
 
-**Julian Griffin :)**
+Enjoy, **Julian Griffin :)**
 
 
