@@ -91,7 +91,7 @@ The dataset consolidates information on data job postings, including:
 
 ## Conclusion  
 
-The **Payday Perspectives** dashboard sheds light on the rapidly growing data job market. By analyzing salary trends and job availability, this project highlights key insights for professionals and job seekers. Whether you’re planning your next career move or simply curious, these insights can help you make informed decisions and stay ahead in the data-driven world.
+The **Payday Perspectives** dashboard sheds light on the rapidly growing data job market. Through analyzing salary trends and job availability, this project made clear the salaries for job given certain parameters. These insights helped me make informed decisions and stay ahead in this crazy data-driven world.
 
 ---
 
