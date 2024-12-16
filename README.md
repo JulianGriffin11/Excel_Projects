@@ -39,7 +39,7 @@ This space highlights my journey into Excel-based **data analysis**, showcasing 
 
 ---
 
-✨ Click the heading links to dive deeper into each project folder to see detailed breakdowns, processes, and insights into the skills behind the spreadsheets! 🚀  
+✨ Click the heading links to dive deeper into each project! 🚀  
 
 **Julian Griffin :)**
 
