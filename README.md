@@ -11,7 +11,7 @@ This space highlights my journey into Excel-based **data analysis**, showcasing 
 
 ## 🗂️ Projects  
 
-### 1. [**💰 Money Matters 💰**](./Money%20Matters)  
+### 1. [**💰 Project 1 - Money Matters 💰**](./Project%201%20-%20Money%20Matters)
 - **Summary**: My personal finance tracker designed to streamline budgeting. Features include an automated categorization of earnings and expenses via a dashboard and more.  
 - **Skills Learned**: 
   - Tob Down Dynamic Dashboard
@@ -25,7 +25,8 @@ This space highlights my journey into Excel-based **data analysis**, showcasing 
 
 ---
 
-### 2. [**📊 Payday Perspectives 📊**](./Payday%20Perspectives)  
+### 2. [**📊 Project 2 - Payday Perspectives 📊**](./Project%202%20-%20Payday%20Perspectives)
+ 
 - **Summary**: Job market analysis dashboard that simplifies salary tracking within the data field. Includes dynamic visuals and fields for better interpretation.  
 - **Skills Learned**: 
   - Advanced Excel functions (e.g., **VLOOKUP**, **INDEX-MATCH**)
