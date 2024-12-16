@@ -18,11 +18,12 @@
 
 ## Excel Skills Used  
 
+- **🔍 Filtering and Sorting**
 - **📊 Pivot Tables**  
 - **📌 Conditional Formatting**  
 - **🔄 Data Cleaning and Validation**  
 - **🧮 Statistical Analysis**  
-- **🔍 Filtering and Sorting**  
+  
 
 ---
 
@@ -33,7 +34,7 @@ The dataset consolidates information on data job postings, including:
 - **📋 Job Titles**: Roles like Data Scientist, **Machine Learning Engineer**, etc.
 - **📆 Job Schedules**: Full-time, part-time, or flexible positions.
 - **💼 Job Platforms**: Sources like **Indeed**, ZipRecruiter, etc. 
-- **🌍 Location**: Specific cities, states, and countries where jobs are posted.  
+- **🌍 Location**: Specific countries where jobs are posted.  
 - **💰 Salary Details**: Yearly and hourly **rates** for posted roles.  
   
 
@@ -52,8 +53,8 @@ The dataset consolidates information on data job postings, including:
 - Used dynamic slicers to adjust for job type and regions.  
 
 #### 💡 Insights  
-- **Senior Data Engineer** roles in California offered the highest average salaries, exceeding $160,000/year.  
-- Entry-level roles in smaller regions showed significant variation based on job type.  
+- In Canada through the sites searched, the median salary for Data Analysts (full-time) is just under $100,000/year.  
+- Machine Learning Enginner showed the highest median salary in Canada compared to the other Data roles.  
 
 <br> 
 
@@ -68,7 +69,7 @@ The dataset consolidates information on data job postings, including:
 - Highlighted key trends using pivot table summaries.  
 
 #### 💡 Insights  
-- **Machine Learning Engineers** commanded the highest salaries at $145,000/year on average.  
+- Engineering roles and senior roles share about the same average yearly salary.
 - **Data Analysts** roles remained popular, though with an average salary of $85,000/year.  
 
 <img src="../Media/PP2.gif" alt="Average Salaries by Role" width="65%" />  
@@ -83,7 +84,7 @@ The dataset consolidates information on data job postings, including:
 
 #### 💡 Insights  
 - **Indeed** and **LinkedIn** led as the top platforms for job postings in North America.  
-- Internationally, postings were more distributed across platforms many sites.  
+- Internationally, postings were more distributed across many different platforms.  
 
 <img src="../Media/PP3.png" alt="Job Postings by Role and Platform" width="60%" />
 
