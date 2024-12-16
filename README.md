@@ -34,7 +34,7 @@ This space highlights my journey into Excel-based **data analysis**, showcasing 
     
 <br>
 
-<img src="https://via.placeholder.com/500x300.png?text=GIF+Placeholder+for+Payday+Perspectives" alt="Payday Perspectives Demo" width="700">
+<img src="./Media/PP1.gif" alt="Visual of Spending Analysis" width="75%" />
 
 
 ---
