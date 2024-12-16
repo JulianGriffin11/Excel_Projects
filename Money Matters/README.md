@@ -1,6 +1,6 @@
 # [💰 Money Matters: Spending Habits Analysis 💰](Money%20Matters.xlsx) 
 
-<img src="../Media.gif" alt="Visual of Spending Analysis" width="75%" />
+<img src="../Media/MM1.gif" alt="Visual of Spending Analysis" width="75%" />
 
 ## Introduction  
 
@@ -38,7 +38,7 @@ The dataset includes transaction details from my RBC VISA and Debit accounts, fe
 
 <br>
 
-<img src="../Media/MM5.png" alt="Overview of Earnings vs Expenses" width="65%" />
+<img src="../Media/MM4.png" alt="Overview of Earnings vs Expenses" width="65%" />
 
 ---
 
@@ -56,7 +56,7 @@ The dataset includes transaction details from my RBC VISA and Debit accounts, fe
 
 <br> 
 
-<img src="../Media/MM4.png" alt="Description of Image" width="70%" />
+<img src="../Media/MM2.png" alt="Description of Image" width="30%" />
 ---
 
 ### 2️⃣ **How does my weekday spending stack up against my weekend habits?**  
@@ -69,7 +69,7 @@ The dataset includes transaction details from my RBC VISA and Debit accounts, fe
 - **Ext-Weekend** and **Worday** spending show minimal overall variation
 - Weekdays showed a steady trend of smaller, necessity-driven expenses like groceries and transport vs transportation on weekends 
 
-<img src="../Media/MM7.gif" alt="Visual of Weekday vs Weekend Spending" width="75%" />
+<img src="../Media/MM6.gif" alt="Visual of Weekday vs Weekend Spending" width="75%" />
 ---
 
 ### 3️⃣ **What are the major categories of my expenses?**  
@@ -82,7 +82,7 @@ The dataset includes transaction details from my RBC VISA and Debit accounts, fe
 - Transportation and Entertainment consistently claimed the biggest slice of the pie, accounting for about **25% of total expenses for each**.  
 - Of the Transportation spending, Uber was **marginally higher** compared to the other merchants. 
 
-<img src="../Media/MM6.png" alt="Major Expense Categories" width="40%" />
+<img src="../Media/MM5.png" alt="Major Expense Categories" width="40%" />
 
 ---
 
