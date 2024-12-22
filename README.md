@@ -46,6 +46,7 @@ This space highlights my journey into Excel-based **data analysis**, showcasing 
   - [📊 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
   - [📘 R Projects](https://github.com/JulianGriffin11/R_Projects)  
 
-Enjoy, **Julian Griffin :)**
+Enjoy,  
+**Julian Griffin :)**
 
 
