@@ -1,6 +1,6 @@
 # 📈 Excel Projects  
 
-Welcome to my **NewExcel_Projects** repository! 🌟  
+Welcome to my **Excel_Projects** repository! 🌟  
 
 This space highlights my journey into Excel-based **data analysis**, showcasing my unique projects. Use the **links below** to explore each one!  
 
