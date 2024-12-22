@@ -100,3 +100,12 @@ The **Payday Perspectives** dashboard sheds light on the rapidly growing data jo
 
 Click [here](Payday%20Perspectives.xlsx) to explore the **Payday Perspectives** spreadsheet in more detail. (Note: the workbook is protected to maintain data integrity.)
 
+---
+
+- Check out some of my other work:  
+  - [📊 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+  - [📘 R Projects](https://github.com/JulianGriffin11/R_Projects)
+
+Kind Regards,  
+Julian
+
