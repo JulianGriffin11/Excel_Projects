@@ -94,6 +94,15 @@ The **Money Matters** project has been a financial eye-opener, revealing where m
 
 ### 📂 Access the Project  
 
-Click [here](Money%20Matters.xlsx) to explore the **Money Matters** spreadsheet in more detail. (Note: the workbook is protected to maintain data integrity.)
+Click [here](Money%20Matters.xlsx) to explore the **Money Matters** spreadsheet in more detail. (Note: the workbook is protected to maintain data integrity.)  
+
+---
+
+- Check out some of my other work:  
+  - [📊 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+  - [📘 R Projects](https://github.com/JulianGriffin11/R_Projects)
+
+Kind Regards,  
+Julian
 
  
