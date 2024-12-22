@@ -42,6 +42,10 @@ This space highlights my journey into Excel-based **data analysis**, showcasing 
 
 ✨ Click the heading links to dive deeper into each project! 🚀  
 
+- Check out some of my other work:  
+  - [📊 SQL Projects](https://github.com/JulianGriffin11/SQL_Projects)  
+  - [📘 R Projects](https://github.com/JulianGriffin11/R_Projects)  
+
 Enjoy, **Julian Griffin :)**
 
 
